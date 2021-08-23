@@ -1,6 +1,8 @@
 ### Ohayo 🦊
 Check out my website -> https://robpiwowarek.github.io
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RobPiwowarek&show_icons=true" />
+
 <!--
 **RobPiwowarek/RobPiwowarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
