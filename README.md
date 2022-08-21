@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The book of shaders’ GLSL’s line drawing for dummies](https://robpiwowarek.github.io/gamedev/glsl-bookofshaders-smoothstep/)
+- [Journey through setting up hello world OpenGL project in CLion and a multitude of issues along the way](https://robpiwowarek.github.io/gamedev/opengl-helloworld/)
+- [Unity vs Unreal - beginner’s perspective](https://robpiwowarek.github.io/gamedev/unity-vs-unreal-for-beginners/)
+- [Leading inexperienced team of 7 into SGJ2019](https://robpiwowarek.github.io/gamedev/leading-newbies-into-slavicgamejam2019/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
