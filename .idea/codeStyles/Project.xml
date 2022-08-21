@@ -1,0 +1,27 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="FORMATTER_TAGS_ENABLED" value="true" />
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="McashPaymentProviderClient.FailureResultResponse.jsonDecoder" />
+          <option value="io.circe.config.syntax._" />
+          <option value="pl.touk.karif.client.isw.decoders._" />
+          <option value="pl.touk.nigeria.commons.domain.circe.decoders._" />
+          <option value="pl.touk.nigeria.commons.domain.circe.encoders._" />
+          <option value="pl.touk.simoom.api.RawApi.encoders.accountEncoder" />
+          <option value="pl.touk.simoom.externalservice.paymentprovider.mcash.McashPaymentProviderClient.FailureResultResponse.jsonDecoder" />
+          <option value="pl.touk.simoom.externalservice.paymentprovider.mcash.McashPaymentProviderClient.paymentResponseDecoder" />
+          <option value="pl.touk.tsuyu.core.domain.CommonEncodersAndDecoders._" />
+        </array>
+      </option>
+      <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
